@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "virus fix", "virus fix\virus fix.csproj", "{B62072F5-47AB-4689-9C79-9FB65B8BE707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62072F5-47AB-4689-9C79-9FB65B8BE707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62072F5-47AB-4689-9C79-9FB65B8BE707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62072F5-47AB-4689-9C79-9FB65B8BE707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62072F5-47AB-4689-9C79-9FB65B8BE707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6792630-8DC4-45D4-AAA4-96B516A8BA12}
+	EndGlobalSection
+EndGlobal
